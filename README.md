@@ -2,7 +2,7 @@
 
 base on [postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport)
 
-[![NPM version](https://badge.fury.io/js/postcss-px-to-viewport.svg)](http://badge.fury.io/js/postcss-px-to-viewport)
+[![NPM version](https://badge.fury.io/js/postcss-px-to-viewport-adapt.svg)](http://badge.fury.io/js/postcss-px-to-viewport-adapt)
 
 English | [中文](README_CN.md)
 
