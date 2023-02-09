@@ -215,3 +215,17 @@ gulp.task("css", function () {
     .pipe(gulp.dest("build/css"));
 });
 ```
+
+## 测试
+
+为了跑测试案例，您需要安装开发套件:
+
+```
+$ npm install
+```
+
+然后输入下面的命令:
+
+```
+$ npm run test
+```

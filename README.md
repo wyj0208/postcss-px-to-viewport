@@ -216,11 +216,6 @@ gulp.task("css", function () {
 });
 ```
 
-## Contributing
-
-Please read [Code of Conduct](CODE-OF-CONDUCT.md)
-and [Contributing Guidelines](CONTRIBUTING.md) for submitting pull requests to us.
-
 ## Running the tests
 
 In order to run tests, you need to install dev-packages:
